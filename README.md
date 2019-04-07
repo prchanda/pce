@@ -21,4 +21,4 @@ Why should I use PCE ?
 - PCE handles the authentication / authorization part of the REST APIs implicitly. You don't need to create an Azure Active Directory application to generate bearer token and invoke the REST APIs.
 - PCE automatically reports back once the policy scan is completed, you don't need to manually query the status by invoking the respective REST API which differentiates the tool from other REST clients like Postman or Fiddler, etc.
 - PCE helps you to run compliance scan at various scopes at the same time by running multiple instances of it.
-- PCE let's you to change the AAD authentication context on the fly using a commandline parameter [-t].
+- PCE lets you to change the AAD authentication context on the fly using a commandline parameter [-t].
