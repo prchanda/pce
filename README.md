@@ -3,7 +3,7 @@ It's a small utility to trigger Azure Policy evaluation cycle on demand. During 
 
 ------------
 
-Now, let's see how this tool (*Policy Compliance Evaluator*) will make our life easier. It's a commandline based tool which mainly takes 2 parameters, one is Azure Subscription Id and the other one is Resource Group name which is optional. So let's say if you want to run the evaluation scan at:
+Now, let's see how this tool (*Policy Compliance Evaluator*) will make our life easier. It's a commandline based tool which mainly takes 2 arguments, one is Azure Subscription Id and the other one is Resource Group name which is optional. So let's say if you want to run the evaluation scan at:
 
 - Subsciption scope
 
