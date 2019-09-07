@@ -1,5 +1,5 @@
 # Policy Compliance Evaluator
-It's a small utility to trigger Azure Policy evaluation cycle on demand. During inital days, we need to rely on policy evaluation cycle to get the updated compliance results in Azure portal. But now we have an option to fire policy evaluation cycle whenever we want through a REST API. There are two REST APIs basically, one to start the policy evaluation cycle and other one is to check whether the scan has been completed or not. Policy scan can be run at subscription scope or at resource group level.
+It's a small utility to trigger Azure Policy evaluation cycle on demand. During initial days, we need to rely on policy evaluation cycle to get the updated compliance results in Azure portal. But now we have an option to fire policy evaluation cycle whenever we want through a REST API. There are two REST APIs basically, one to start the policy evaluation cycle and other one is to check whether the scan has been completed or not. Policy scan can be run at subscription scope or at resource group level.
 
 ------------
 
